@@ -1,0 +1,47 @@
+{
+  "title": "Hello I'm Niloofar",
+  "subtitle": "Frontend dev | editor | beloger",
+  "links": {
+    "github": "https://github.com/sediqeh-jafari",
+    "likedin": "https://www.linkedin.com/in/haditabatabaei/",
+    "instagram": "https://www.instagram.com/niloofarmix"
+  },
+  "section": [
+    {
+      "title": "About me",
+      "items": [
+        {
+          "type": "p",
+
+          "content": "My name is Niloufar with two years of experience in the field of website development  I am a computer engineering student and I have the skills of HTML, CSS, Javascript, React I am a responsible and polite person and I respect the individual differences of my colleagues I have the ability to work in a team and I do my duty on time"
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "items": [
+        {
+          "type": "card",
+
+          "image": "/images/react.png",
+          "title": "React"
+        },
+        {
+          "type": "card",
+          "image": "/images/js.png",
+          "title": "javascript"
+        },
+        {
+          "type": "card",
+          "image": "/images/html-5.png",
+          "title": "Html"
+        },
+        {
+          "type": "card",
+          "image": "/images/css.png",
+          "title": "Css"
+        }
+      ]
+    }
+  ]
+}
